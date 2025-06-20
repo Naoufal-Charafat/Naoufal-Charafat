@@ -99,8 +99,7 @@
 ## 📫 Let’s Connect
 
 - 🌍 [Personal Website](https://softwebdd.com)  
-- 📧 Email: info@softwebdd.com  
-- 💬 [LinkedIn](https://www.linkedin.com/in/naoufal2020/) | [GitHub](https://github.com/Naoufal-Charafat)
+- 📧 Email: info@softwebdd.com 
 
 ---
 
