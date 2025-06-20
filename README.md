@@ -30,16 +30,17 @@
 ---
 
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-008F39?style=flat-square&logo=protonmail&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows-server&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-9B59B6?style=flat-square&logo=owasp&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-87B222?style=flat-square&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-4A5768?style=flat-square&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-005E9E?style=flat-square&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows-server&logoColor=white)
+
 
 ---
 
