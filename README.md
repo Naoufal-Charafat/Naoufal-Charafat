@@ -1,4 +1,4 @@
-# 👋 Hi, I’m C.A.Naoufal
+# 👩‍💻Hi, I’m C.A.Naoufal
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naoufal2020/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naoufal-Charafat)
@@ -27,11 +27,11 @@
 ---
 
 ## ✨ My most notable phrases:
-*"Failure is an option. If things are not failing, you are not innovating enough"*
+👩‍💻*"Failure is an option. If things are not failing, you are not innovating enough"*
 
-*"Turning ideas into real-world code with creativity and precision"*
+👩‍💻*"Turning ideas into real-world code with creativity and precision"*
 
-*"Passionate about protecting systems and staying ahead of threats"*
+👩‍💻*"Passionate about protecting systems and staying ahead of threats"*
 
 ---
 
