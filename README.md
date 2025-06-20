@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Naoufal Charafat
 
-<!--
-**Naoufal-Charafat/Naoufal-Charafat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduado en Ingeniería Informática por la Universidad de Alicante, con especialización en Ingeniería del Software.
 
-Here are some ideas to get you started:
+🚀 Apasionado por el desarrollo de software, inteligencia artificial y ciberseguridad. Siempre en busca de nuevos desafíos tecnológicos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Actualmente explorando:
+- 🔐 Técnicas avanzadas de ciberseguridad
+- 🧠 Proyectos con IA y aprendizaje automático
+- ⚙️ Desarrollo Fullstack y automatización
+
+📫 Puedes encontrarme en:
+[LinkedIn](https://www.linkedin.com/in/naoufal2020/) | [GitHub](https://github.com/Naoufal-Charafat)
+
+---
+
+## 🚀 Repositorios destacados
+
+⭐ Aquí encontrarás proyectos personales, colaboraciones y soluciones técnicas de alto nivel.
+
+¡Gracias por visitar mi perfil! 😄
