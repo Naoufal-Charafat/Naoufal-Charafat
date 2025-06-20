@@ -27,11 +27,11 @@
 ---
 
 ## ✨ My most notable phrases:
-👨‍💻*"Failure is an option. If things are not failing, you are not innovating enough"*
+👾"Failure is an option. If things are not failing, you are not innovating enough"
 
-👨‍💻*"Turning ideas into real-world code with creativity and precision"*
+👾"Turning ideas into real-world code with creativity and precision" 
 
-👨‍💻*"Passionate about protecting systems and staying ahead of threats"*
+👾"Passionate about protecting systems and staying ahead of threats"
 
 ---
 
