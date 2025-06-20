@@ -26,12 +26,9 @@
 
 ---
 
-## ✨ Highlight GIFs
-
-![Developer GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  
+## ✨ My most notable phrases:
+*Failure is an option. If things are not failing, you are not innovating enough
 *Turning ideas into real-world code with creativity and precision.*
-
-![Cybersecurity GIF](https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif)  
 *Passionate about protecting systems and staying ahead of threats.*
 
 ---
