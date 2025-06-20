@@ -44,6 +44,20 @@
 
 ---
 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6F00?style=flat-square&logo=huggingface&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-FFDD00?style=flat-square&logo=spacy&logoColor=black)
+![ONNX](https://img.shields.io/badge/ONNX-04408B?style=flat-square&logo=onnx&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-E18D00?style=flat-square&logo=nltk&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+
+
+---
+
 ## ✨ My most notable phrases:
 > 🔰"Failure is an option. If things are not failing, you are not innovating enough"
 
